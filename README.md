@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Weidong Wu,
 - 👀 I’m interested in AI for life science.
 - 🌱 To visit the web site '[www.wvdon.github.io](https://wvdon.github.io/)' to look more details
+Biography
+
+- [Curriculum Vitae](https://github.com/wvdon/wvdon/blob/master/CV_Weidong_Wu.pdf)
 <!---
 - 🌱 To visit the web site '[www.wvdon.github.io](https://wvdon.github.io/)' to look more details
 - Email: weidongwu404@gmail.com
